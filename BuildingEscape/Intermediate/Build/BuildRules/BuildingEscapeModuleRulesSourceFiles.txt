@@ -1,0 +1,3 @@
+C:\Users\Noah Thompson\Documents\GitHub\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
+C:\Users\Noah Thompson\Documents\GitHub\Building-Escape\BuildingEscape\Source\BuildingEscape.Target.cs
+C:\Users\Noah Thompson\Documents\GitHub\Building-Escape\BuildingEscape\Source\BuildingEscapeEditor.Target.cs
